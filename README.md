@@ -1,4 +1,4 @@
-# pythonLearningTemplate
+# pythonDataScienceLesson-1: Data Visualization and Linear Regression
 
 Template for easy startups with Projects using VS Code
 

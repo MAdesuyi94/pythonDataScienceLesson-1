@@ -1,7 +1,7 @@
 [project]
-name = "pythonLearningTemplate"
+name = "pythonDataScienceLesson-1"
 version = "0.1.0"
-description = "Add your description here"
+description = "This lesson will go over data visualization and linear regression."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
